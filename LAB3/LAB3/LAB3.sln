@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LAB3", "LAB3\LAB3.vcproj", "{44B96DA4-6E6E-41E7-BC7C-0A0325C4B500}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab3_2", "lab3_2\lab3_2.vcproj", "{DBA81874-8B9F-47C6-8F6C-993E5B65F3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B96DA4-6E6E-41E7-BC7C-0A0325C4B500}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44B96DA4-6E6E-41E7-BC7C-0A0325C4B500}.Debug|Win32.Build.0 = Debug|Win32
+		{44B96DA4-6E6E-41E7-BC7C-0A0325C4B500}.Release|Win32.ActiveCfg = Release|Win32
+		{44B96DA4-6E6E-41E7-BC7C-0A0325C4B500}.Release|Win32.Build.0 = Release|Win32
+		{DBA81874-8B9F-47C6-8F6C-993E5B65F3D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBA81874-8B9F-47C6-8F6C-993E5B65F3D3}.Debug|Win32.Build.0 = Debug|Win32
+		{DBA81874-8B9F-47C6-8F6C-993E5B65F3D3}.Release|Win32.ActiveCfg = Release|Win32
+		{DBA81874-8B9F-47C6-8F6C-993E5B65F3D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
